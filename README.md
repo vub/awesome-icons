@@ -17,3 +17,4 @@
 
 ## Collections
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+- [iconify: integrated icon search tool in Figma, Sketch](https://iconify.design/icon-sets/)
