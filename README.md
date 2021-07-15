@@ -1,5 +1,6 @@
 # Awesome Icons
 
+## Libs
 - [Bootstrap Icons](https://icons.getbootstrap.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [Feather](https://feathericons.com/)
@@ -13,3 +14,6 @@
 - [icofont](https://icofont.com/)
 - [CoreUI Icons](https://icons.coreui.io/)
 - [PrimeIcons](https://www.primefaces.org/diamond/icons.xhtml)
+
+## Collections
+- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
